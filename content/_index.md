@@ -170,6 +170,11 @@ For any questions, please reach us at : [repro-hpc@groupes.renater.fr](mailto:re
 - Bruno Raffin, INRIA
 - Amir Raoofy, Leibniz Supercomputing Centre
 
+{{ new_block() }}
+
+## Previous Editions
+
+- [ISC 2026](https://repro-hpc.github.io/2026)
 
 {{ new_block() }}
 
