@@ -68,9 +68,8 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 # Program
 
-**Friday June 11th 2026**:
+**Friday June 11th 2027**:
 
-<div class="program-table">
 
 | Time (CET)    | Duration (minutes) | Event                     |
 | ------------- | ------------------ | ------------------------- |
@@ -83,7 +82,6 @@ The topics of interest of the workshop include, but are not limited to, the foll
 | 11:00 - 11:15 | 15:00              | Contributed Talk #3       |
 | 11:15 - 11:30 | 15:00              | Contributed Talk #4       |
 | 11:30 - 12:30 | 60:00              | Panel Discussion          | 
-</div>
 
 
 
@@ -108,11 +106,11 @@ TBD
 
 - Submissions should be either a **2-page abstract** or a **4-page short paper**, excluding references, in the PDF format using the [IEEE double column template](https://www.ieee.org/conferences/publishing/templates)
 
-- Accepted submissions will **not** appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
+- Accepted submissions will **not** appear in the ISC27's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
 
 - Accepted submission will have a 15-minute timeslot including presentation and Q&A.
 
-- Submission website: [https://easychair.org/conferences/?conf=reprohpc26](https://easychair.org/conferences/?conf=reprohpc26)
+- Submission website: TBD
 
 {{ new_block() }}
 
